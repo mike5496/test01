@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "removeComments": true,
+    "preserveConstEnums": true
+  },
+  "exclude": [
+    "node_modules" 
+  ],
+  "inlineSource": true,
+  "inlineSourceMap": true,
+  "outDir": "./dist"
+}
